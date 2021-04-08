@@ -11,7 +11,7 @@
 		<version>1.0-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>spring-com.luv2code.springsecurity.demo-aop-z-after-returning</artifactId>
+	<artifactId>spring-demo-aop-z-after-returning</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 </project>

@@ -11,7 +11,7 @@
 		<version>1.0-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>spring-com.luv2code.springsecurity.demo-aop-zz-around-with-logger</artifactId>
+	<artifactId>spring-demo-aop-zz-around-with-logger</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 </project>
